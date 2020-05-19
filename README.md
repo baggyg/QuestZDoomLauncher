@@ -23,6 +23,7 @@ QuestZDoom Discord: https://discord.gg/JXsnckZ
 Main Website: https://www.questzdoom.com
 
 Subreddit: https://www.reddit.com/r/quakezdoom
+
 <b>Notice of Non-Affiliation and Disclaimers:</b>
 
 'QuestZDoom' and the 'QuestZDoom Launcher' are not affiliated, associated, authorized, endorsed by, or in any way officially connected with ID Software or Bethesda, or any of its subsidiaries or its affiliates.
