@@ -36,6 +36,8 @@ These files are publicly downloadable from other sources and this application do
 
 If you believe that a link on this application infringes upon your copyright or intellectual property please contact us at general@questzdoom.com and we would be happy to remove as soon as possible.
 
-<b>License</b>
+<b>QuestZDoom Launcher License</b>
 
-QuestZDoom Launcher by Grant Bagwell (BaggyG) is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0
+Copyright (C) Grant Bagwell (baggyg) - All Rights Reserved, May 2020
+Unauthorized copying of this software, via any medium is strictly prohibited
+Proprietary and confidential
